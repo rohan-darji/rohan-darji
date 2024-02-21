@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/rohan-darji" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="rohandarji2001@gmail.com" target="_blank">
+  <a href="mailto:rohandarji2001@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/rohan_darji13" target="_blank">
@@ -84,11 +84,5 @@
 <div align="left">
   <img src="https://profile-counter.glitch.me/rohan-darji/count.svg?"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rohan-darji/rohan-darji/output/snake.svg" alt="Snake animation" />
 
 ###
