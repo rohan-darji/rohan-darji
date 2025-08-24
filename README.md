@@ -77,12 +77,12 @@
 
 ###
 
-<h3 align="left">Profile Views</h3>
+<h1 align="left">Profile Views</h1>
 
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/rohan-darji/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rohan-darji.rohan-darji" />
 </div>
 
 ###
