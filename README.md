@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rohan Vasantbhai Darji<br>I completed my Masters in Computer Science from Indiana University - Bloomington</h2>
+<h2 align="left">Hi 👋! My name is Rohan Vasantbhai Darji<br>I am a Software Engineer at LiveRamp</h2>
 
 ###
 
